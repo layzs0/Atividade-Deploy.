@@ -1,6 +1,6 @@
 # ⚽Atividade Deploy - Cadastro de Jogadores 
 
-Este proketo consiste em um sistema de cadastro de jogadores de futebol, desenvolvido como parte de uma atividade de deploy no SENAI - Serviço Nacional de Aprendizagem Industrial. O repositório está organizado em branches para separar as responsabilidades do sistema.
+Este projeto consiste em um sistema de cadastro de jogadores de futebol, desenvolvido como parte de uma atividade de deploy no SENAI - Serviço Nacional de Aprendizagem Industrial. O repositório está organizado em branches para separar as responsabilidades do sistema.
 
 📂Estrutura do Repositório
 O projeto utiliza branches específicas para cada parte da aplicação:
@@ -24,13 +24,14 @@ Para rodar o projeto localmente, você precisará baixar os arquivos de cada bra
 ___
 Bash
 npm install
+___
 
 3.Inicie a aplicação:
 
 ___
 Bash 
 npm start
-
+___
 
 🗄️Configurando o Back-end
 
@@ -41,12 +42,14 @@ npm start
 ___
 bash 
 npm install
+___
 
 3.Inicie o servidor:
 
 ___
 bash
 npm run dev
+___
 
 🛠️ Tecnologias Utilizadas
 
