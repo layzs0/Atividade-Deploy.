@@ -12,36 +12,47 @@ O projeto utiliza branches específicas para cada parte da aplicação:
 - Tcc-Back: Código fonte da API e banco de dados.
 
 🚀 Como Executar o Projeto
+
 Para rodar o projeto localmente, você precisará baixar os arquivos de cada branch ou clonar o repositório.
 
-Configurando o Front-end
-Mude para a branch do front: git checkout Tcc-Front
+🎨Configurando o Front-end:
 
-1.Instale as dependências:
+1.Mude para a branch do front: git checkout Tcc-Front
 
-'''Bash
-npm install'''
-Inicie a aplicação:
+2.Instale as dependências:
 
-'''Bash
-npm start'''
-2. Configurando o Back-end
-Mude para a branch do back: git checkout Tcc-Back
+___
+Bash
+npm install
 
-Instale as dependências:
+3.Inicie a aplicação:
 
-'''Bash
-npm install'''
-Inicie o servidor:
+___
+Bash 
+npm start
 
-'''Bash
-npm run dev'''
+
+🗄️Configurando o Back-end
+
+1.Mude para a branch do back: git checkout Tcc-Back
+
+2.Instale as dependências:
+
+___
+bash 
+npm install
+
+3.Inicie o servidor:
+
+___
+bash
+npm run dev
 
 🛠️ Tecnologias Utilizadas
 
-- Frontend: React.js / CSS
-- Backend: Node.js / Express
-- Deploy: (Cite aqui onde você fez o deploy, ex: Vercel, Netlify ou Render)
+- Frontend: React.js/ Css / javaScript / Html
+- Backend: Node.js 
+- Deploy
 
 👤 Desenvolvedora 
 - Layza -@layzs0
